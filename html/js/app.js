@@ -1,13 +1,13 @@
 const Targeting = Vue.createApp({
     data() {
         return {
-            Show: false, // leave this
+            Show: false,
             ChangeTextIconColor: false, // This is if you want to change the color of the icon next to the option text with the text color
             StandardEyeIcon: 'https://cdn.discordapp.com/attachments/903021216464531507/903024370665000981/normaleye.png', // Instead of icon it's using a image source found in HTML 
             CurrentIcon: 'https://cdn.discordapp.com/attachments/903021216464531507/903024370665000981/normaleye.png', // Instead of icon it's using a image source found in HTML
-            SuccessIcon: 'https://cdn.discordapp.com/attachments/1153289114678997063/1160976953092866098/activeeye.png', // Instead of icon it's using a image source found in HTML
-            SuccessColor: "rgb(167, 0, 245)", // This is the color when the target has found the option
-            StandardColor: "white", // This is the standard color, change this to the same as the StandardColor if you have changed it
+            SuccessIcon: 'https://cdn.discordapp.com/attachments/903021216464531507/903024373626208336/activeeye.png', // Instead of icon it's using a image source found in HTML
+            SuccessColor: "rgb(5, 241, 178)",
+            StandardColor: "white",
             TargetEyeStyleObject: {
                 color: this.StandardColor, // leave this
             },
