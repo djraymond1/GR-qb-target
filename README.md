@@ -1,5 +1,5 @@
 
-###### test
+# Please make sure to rename the script to qb-target
 
 
 # qb-target
