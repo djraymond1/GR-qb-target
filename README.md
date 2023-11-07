@@ -1,9 +1,3 @@
-
-
-<p>Visitor count</p>
-  <img src="https://profile-counter.djraymond1/GR-qb-target/count.svg" />
-
-
 # Please make sure to rename the script to qb-target
 
 
